@@ -11,4 +11,5 @@ Se puede conetar con cables tipo dupont desde el puerto ISCP de arduino UNO al p
 
 
 # Instalación
-Una vez conectado, se tiene que descargar el programador de la Pixy2 y la librería Pixy2 para arduino
+Una vez conectado, se tiene que descargar el programador de la Pixy2 y la librería Pixy2 para arduino de este repositorio o ver la versión más actual en:
+https://pixycam.com/downloads-pixy2/
